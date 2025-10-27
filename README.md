@@ -42,5 +42,4 @@ Feel free to fork, modify, and experiment.
 ---
 
 ##  About
-This repository is part of my journey to master **embedded systems and hardware design** using STM32 microcontrollers —  
-exploring everything from HAL-based development to **bare-metal register programming**.
+This repository is part of my journey to master embedded systems and hardware design using STM32 microcontrollers — exploring everything from HAL and SPL-based development to bare-metal register programming.
