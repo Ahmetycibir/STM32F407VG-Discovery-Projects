@@ -7,7 +7,7 @@ Each project focuses on learning and experimenting with STM32 microcontroller pe
 
 ---
 
-## 🔧 Features & Topics
+##  Features & Topics
 - GPIO input/output control  
 - External interrupts (EXTI)  
 - UART, I2C, SPI communication protocols  
@@ -18,7 +18,7 @@ Each project focuses on learning and experimenting with STM32 microcontroller pe
 
 ---
 
-## 🧠 Tools & Environment
+##  Tools & Environment
 - **IDE:** STM32CubeIDE, Atollic TrueSTUDIO  
 - **Language:** C  
 - **Board:** STM32F407VG Discovery (DISC1)  
@@ -26,7 +26,7 @@ Each project focuses on learning and experimenting with STM32 microcontroller pe
 
 ---
 
-## 🧩 Example Project Ideas
+##  Example Project Ideas
 - Blinking LED sequence (GPIO)  
 - Sensor reading via I2C/SPI  
 - Serial data communication using UART  
@@ -35,12 +35,11 @@ Each project focuses on learning and experimenting with STM32 microcontroller pe
 
 ---
 
-## 📄 License
+##  License
 All projects in this repository are open for learning and personal use.  
 Feel free to fork, modify, and experiment.
 
 ---
 
-## 🧠 About
-This repository is part of my journey to master **embedded systems and hardware design** using STM32 microcontrollers —  
-exploring everything from HAL-based development to **bare-metal register programming**.
+##  About
+This repository is part of my journey to master embedded systems and hardware design using STM32 microcontrollers — exploring everything from HAL and SPL-based development to bare-metal register programming.
